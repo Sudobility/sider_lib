@@ -5,17 +5,17 @@
     "": {
       "name": "@sudobility/sider_lib",
       "devDependencies": {
-        "@sudobility/sider_types": "^0.0.21",
+        "@sudobility/sider_types": "^0.0.22",
         "@types/bun": "~1.4.4",
         "typescript": "~5.9.3",
       },
       "peerDependencies": {
-        "@sudobility/sider_types": "^0.0.21",
+        "@sudobility/sider_types": "^0.0.22",
       },
     },
   },
   "packages": {
-    "@sudobility/sider_types": ["@sudobility/sider_types@0.0.21", "https://npm.pkg.github.com/download/@sudobility/sider_types/0.0.21/dafe2d97c35874bacacc5931eb1751806ead386e", {}, "sha512-fx8v6pm/VIXRMmryWiDWYtSTXvtjTSnEH5NdeVpRW8dX551auavgdfGHwSZZ9YTg2aMjuYi15HYSD+Rb8nYwUw=="],
+    "@sudobility/sider_types": ["@sudobility/sider_types@0.0.22", "https://npm.pkg.github.com/download/@sudobility/sider_types/0.0.22/b4fe0505ce14806f46ef05c435c7cf13f8064deb", {}, "sha512-49YwjnHDFEIUC5xr+NdSPsGWEGKvQR2LNRsTZh4JvQ+ry+aFuBVaPbjaSTe7xThK3WlaU9f270XgyKtZkUXfLw=="],
 
     "@types/bun": ["@types/bun@1.4.4", "", { "dependencies": { "bun-types": "1.4.4" } }, "sha512-9wkRDXUXK124pEnAutE6n/l18j+i9GC5IAHK8TmX/2nlySETmky0OU6yL5U8pW1AoKh++AN9auDCr647BfurjQ=="],
 
